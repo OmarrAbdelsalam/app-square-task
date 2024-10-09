@@ -1,0 +1,50 @@
+{
+    "HeroDoctor": {
+      "imageAlt": "طبيب",
+      "heroTitle": "أطلق موقعك الطبي في ثوانٍ واستمتع ب",
+      "discount": "خصم 20%",
+      "heroDescription": "هل تبحث عن طريقة سريعة لتوسيع نطاق عيادتك؟ مع حلولنا الذكية، يمكنك إنشاء موقع إلكتروني احترافي في دقائق، مع العديد من المزايا لتسهيل التواصل مع مرضاك. جاهز للانطلاق؟",
+      "ctaText": "احصل على موقعك الآن"
+    },
+     "Header": {
+      "title": "الدكتور",
+      "home": "الرئيسية",
+      "pricing": "الاسعار",
+      "templates": "القوالب",
+      "aboutUs": "من نحن",
+      "howToUse": "كيف يستخدم؟",
+      "languageSwitch": "English",
+      "login": "تسجيل الدخول"
+    },
+    "Pricing": {
+      "professionalPlanName": "احترافي",
+      "professionalPlanPrice": "2000",
+      "yearly": "/سنة",
+      "advancedCustomization": "خيارات التخصيص المتقدمة",
+      "unlimitedStorage": "تخزين غير محدود",
+      "support24_7": "دعم 24/7",
+      "helpCenterAccess": "الوصول إلى مركز المساعدة",
+      "websiteStats": "احصائيات الموقع والمرضى",
+      "communityAccess": "الوصول إلى المجتمع",
+      "tryFreeForMonth": "جرب مجانا لمدة شهر",
+      "customPlanName": "مخصص",
+      "customPlanPrice": "",
+      "oneTime": "مرة واحدة",
+      "includedUsers": "10 مستخدمين مشمولين",
+      "contactUs": "تواصل معنا",
+      "plan": "الخطة"
+    }, "LoginForm": {
+      "loading": "جار التحميل...",
+      "emailLabel": "البريد الإلكتروني",
+      "mail_placeholder": "أدخل بريدك الإلكتروني",
+      "passwordLabel": "كلمة المرور",
+      "pass_placeholder": "أدخل كلمة المرور",
+      "login": "تسجيل الدخول",
+      "invalidLogin": "بيانات تسجيل الدخول غير صحيحة",
+      "errorLogin": "حدث خطأ أثناء تسجيل الدخول",
+      "noAccount": "ليس لديك حساب؟",
+      "registerNow": "سجل الآن"
+    }
+  }
+  
+  

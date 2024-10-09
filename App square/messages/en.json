@@ -1,0 +1,50 @@
+{
+    "HeroDoctor": {
+        "imageAlt": "Doctor",
+        "heroTitle": "Launch your medical website in seconds with",
+        "discount": "20% discount",
+        "heroDescription": "Are you looking for a quick way to expand your clinic? With our smart solutions, you can create a professional website in minutes, with many features to make communication with your patients easier. Ready to get started?",
+        "ctaText": "Get your website now"
+    }
+    ,"Header": {
+    "title": "Doctor",
+    "home": "Home",
+    "pricing": "Pricing",
+    "templates": "Templates",
+    "aboutUs": "About Us",
+    "howToUse": "How to Use",
+    "languageSwitch": "English",
+    "login": "Login"
+  },
+  "Pricing": {
+    "professionalPlanName": "Professional",
+    "professionalPlanPrice": "2000",
+    "yearly": "/year",
+    "advancedCustomization": "Advanced customization options",
+    "unlimitedStorage": "Unlimited storage",
+    "support24_7": "24/7 support",
+    "helpCenterAccess": "Access to help center",
+    "websiteStats": "Website and patient stats",
+    "communityAccess": "Community access",
+    "tryFreeForMonth": "Try free for a month",
+    "customPlanName": "Custom",
+    "customPlanPrice": "",
+    "oneTime": "One-time",
+    "includedUsers": "10 included users",
+    "contactUs": "Contact us",
+    "plan": "Plan"
+  },
+  "LoginForm": {
+    "loading": "Loading...",
+    "emailLabel": "Email",
+    "mail_placeholder": "Enter your email",
+    "passwordLabel": "Password",
+    "pass_placeholder": "Enter your password",
+    "login": "Login",
+    "invalidLogin": "Invalid login credentials",
+    "errorLogin": "Error occurred during login",
+    "noAccount": "Don't have an account?",
+    "registerNow": "Register Now"
+  }
+  }
+  
